@@ -1,0 +1,1 @@
+this week i learned the commands for javaScript and how to javaScript has var and const
